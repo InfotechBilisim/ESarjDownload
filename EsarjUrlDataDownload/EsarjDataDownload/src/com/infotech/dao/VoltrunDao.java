@@ -47,7 +47,7 @@ public class VoltrunDao {
                Utils.showError("************** Hata detayi icin Log dosyasina bakiniz************************");
 
             ex.printStackTrace();
-            Utils.showError("findKuveytTurkInfo: " + ex.getMessage());
+            Utils.showError("findKuveytTurkInfo: " + ex.fillInStackTrace());
             String data =
                 "tableName: " + tableName + " id: " + id + " name: " + name + " address: " + address + " country: " + country + " status: " + status + " evseOrder: " + evseOrder + " city: " + city + " district: " + district +
                 " code: " + code;

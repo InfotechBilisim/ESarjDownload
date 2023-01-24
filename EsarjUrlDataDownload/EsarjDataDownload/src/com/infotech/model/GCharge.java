@@ -64,7 +64,7 @@ public class GCharge {
                 }
             }
         } catch (Exception e) {
-            Utils.showError("insertDataInfo hata :" + e.getStackTrace());
+            Utils.showError("insertDataInfo hata :" + e.fillInStackTrace());
         }finally{
             Operations.closeConnections(cnn, null, null);
         }

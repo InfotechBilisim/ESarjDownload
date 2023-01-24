@@ -29,7 +29,7 @@ public class Voltrun {
              } catch (Exception e) {
                  Utils.logInfo("Doc: " + doc);
                  Utils.showError("findData URL Request hata : " + url);
-                 e.getStackTrace();
+                 e.fillInStackTrace();
              }
 
              JSONParser jsonP = new JSONParser();
@@ -81,7 +81,7 @@ public class Voltrun {
                  }
              }
          } catch (Exception e) {
-             Utils.showError("insertDataInfo hata :" + e.getStackTrace());
+             Utils.showError("insertDataInfo hata :" + e.fillInStackTrace());
          }finally{
              Operations.closeConnections(cnn, null, null);
          }

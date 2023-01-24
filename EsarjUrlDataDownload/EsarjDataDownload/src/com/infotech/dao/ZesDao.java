@@ -25,7 +25,7 @@ public class ZesDao {
         } catch (Exception ex) {
             Utils.showText("************** Hata detayi icin Log dosyasina bakiniz************************");
             ex.printStackTrace();
-            Utils.showError("insertDataInfo: " + ex.getMessage());
+            Utils.showError("insertDataInfo: " + ex.fillInStackTrace());
             String data = "tableName: " + tableName + " name: " + name + " addres: " + address + " type: " + type + " id: " + id + " city: " + city;
             Utils.logInfo(data);
             Utils.logInfo(sqlStr);

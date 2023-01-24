@@ -64,7 +64,7 @@ public class Zes {
                                  }
                               }
                           }catch(Exception e){
-                            Utils.showError("İtems hata :" + e.getStackTrace());
+                            Utils.showError("İtems hata :" + e.fillInStackTrace());
                          }
                      }
                  } catch (Exception ex) {
@@ -73,7 +73,7 @@ public class Zes {
                  }
              }
          } catch (Exception e) {
-             Utils.showError("insertDataInfo hata :" + e.getStackTrace());
+             Utils.showError("insertDataInfo hata :" + e.fillInStackTrace());
          }finally{
              Operations.closeConnections(cnn, null, null);
          }

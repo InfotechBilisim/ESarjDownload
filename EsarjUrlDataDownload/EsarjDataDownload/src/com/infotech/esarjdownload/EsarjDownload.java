@@ -95,7 +95,7 @@ public class EsarjDownload {
             Utils.showText(app_name + " uygulamasi bitti. @" + Utils.getCurrentDateTime());
 
         } catch (Exception e) {
-            Utils.showError("Genel hata :" + e.getMessage());
+            Utils.showError("Genel hata :" + e.fillInStackTrace());
         }
     }
 

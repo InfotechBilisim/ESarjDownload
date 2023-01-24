@@ -33,7 +33,7 @@ public class SharzNetDao {
         } catch (Exception ex) {
             Utils.showError("************** Hata detayi icin Log dosyasina bakiniz************************");
             ex.printStackTrace();
-            Utils.showError("findEmlakBankInfo: " + ex.getMessage());
+            Utils.showError("findEmlakBankInfo: " + ex.fillInStackTrace());
             String data = "tableName: " + tableName + " id: " + id + " name: " + name + " address: " + address + " lng: " + lng + " lat: " + lat + " city: " + city + " imageUrl: " + imageUrl+ " phone1: " + phone1;
             Utils.logInfo(data);
             Utils.logInfo(sqlStr);

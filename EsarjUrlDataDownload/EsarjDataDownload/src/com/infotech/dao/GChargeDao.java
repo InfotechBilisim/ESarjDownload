@@ -36,7 +36,7 @@ public class GChargeDao {
                Utils.showError("************** Hata detayi icin Log dosyasina bakiniz************************");
 
             ex.printStackTrace();
-            Utils.showError("findAlbarakaInfo: " + ex.getMessage());
+            Utils.showError("findAlbarakaInfo: " + ex.fillInStackTrace());
             String data = "tableName: " + tableName + " id: " + id + " name: " + name + " address: " + address + " number: " + number + " type: " + type;
             data += " lng: " + lng + " + lat: " + lat + " status: " + status + " + pinType: " + pinType + " isActive: " + isActive;
             Utils.logInfo(data);

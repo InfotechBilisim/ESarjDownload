@@ -1075,7 +1075,7 @@ public class Utils {
                 Utils.showError("responseCode:" + responseCode + " commonPostRequest POST request not worked: " + requestUrl);
             }
         } catch (Exception e) {
-            Utils.showError("commonPostRequest: " + requestUrl + " params: " + params + e.getMessage());
+            Utils.showError("commonPostRequest: " + requestUrl + " params: " + params + e.fillInStackTrace());
         } finally {
             closeHttpConn(httpClient, inpStream, null, inpBuffer, outputStreamWriter);
         }
@@ -1129,7 +1129,7 @@ public class Utils {
             
 
         } catch (Exception e) {
-            Utils.showError("commonGetRequest: " + requestUrl + " " + e.getMessage());
+            Utils.showError("commonGetRequest: " + requestUrl + " " + e.fillInStackTrace());
             return null;
         } finally {
             closeHttpConn(connection, inpStreamReader, null, inpBuffer);
@@ -1162,7 +1162,7 @@ public class Utils {
             }
             writer = null;
         } catch (Exception ex) {
-            Utils.showError("closeHttpConn writer " + ex.getMessage());
+            Utils.showError("closeHttpConn writer " + ex.fillInStackTrace());
             ex.fillInStackTrace();
         }
     }

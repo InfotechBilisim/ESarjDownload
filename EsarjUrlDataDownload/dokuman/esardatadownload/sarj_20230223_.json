@@ -1,0 +1,2354 @@
+[
+    {
+        "lat": "41.142246",
+        "lng": "27.862919",
+        "data": {
+            "title": "Borusan Oto Çorlu",
+            "address": "Önerler Mahallesi E5 Karayolu İstanbul Caddesi No: 39-41",
+            "phone": "0(282) 292 15 00",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "08:30 - 18:30",
+            "weekendTime": "18:00 - 16:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Çorlu / Tekirdağ"
+        }
+    },
+    {
+        "lat": "41.142246",
+        "lng": "28.667398",
+        "data": {
+            "title": "Akbatı AVM",
+            "address": "Akbatı Alışveriş ve Yaşam Merkezi, Sanayi Mah. 1655 Sok. No:6",
+            "phone": "0(212) 397 70 70",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Esenyurt / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.015114",
+        "lng": "28.681856",
+        "data": {
+            "title": "Bika Plaza",
+            "address": "Namık Kemal Mah. Haramidere Yolu, Bika Plaza No:26",
+            "phone": "0(212) 456 04 56",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Esenyurt / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "40.991127",
+        "lng": "28.714201",
+        "data": {
+            "title": "Pelican Mall",
+            "address": "Üniversite Mah. Selvi Sok. No:25, E5 üzeri",
+            "phone": "0(212) 509 98 00",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Avcılar / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "40.991848",
+        "lng": "28.716658",
+        "data": {
+            "title": "Borusan Oto Avcılar",
+            "address": "Firuzköy Bulvarı, No:21",
+            "phone": "0(212) 412 04 12",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Avcılar / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "40.992699",
+        "lng": "28.717186",
+        "data": {
+            "title": "Borusan Oto Avcılar",
+            "address": "Firuzköy Bulvarı, No:21",
+            "phone": "0(212) 412 04 12",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Avcılar / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "40.972824",
+        "lng": "28.804192",
+        "data": {
+            "title": "Flyinn AVM",
+            "address": "Şenlikköy Mah. Harman Sok. No:48, Florya",
+            "phone": "0(212) 573 75 75",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Bakırköy / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "40.978851",
+        "lng": "28.818560",
+        "data": {
+            "title": "TAV İstanbul Atatürk Havalimanı",
+            "address": "TAV Havalimanları Holding Merkez Yönetim Binası, İstanbul Atatürk Havalimanı, Dış Hatlar Terminali",
+            "phone": "0(212) 463 30 00",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Bakırköy / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "40.960167",
+        "lng": "28.838976",
+        "data": {
+            "title": "Polat Renaissance Hotel",
+            "address": "Yeşilyurt Mah. Sahil Yolu Cad. No:2",
+            "phone": "0(212) 414 18 00",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Bakırköy / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.011181",
+        "lng": "28.815447",
+        "data": {
+            "title": "StarCity Outlet Center",
+            "address": "Köyaltı Mevkii Merkez Mah., Değirmenbahçe Cad., Kavak Sok., No:2, Yenibosna",
+            "phone": "0(212) 603 40 40",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Bahçelievler / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.017403",
+        "lng": "28.815241",
+        "data": {
+            "title": "Mercator Ltd",
+            "address": "Merkez Mah. Köyaltı Mevkii, Kavak Sok. No:24, Yenibosna",
+            "phone": "0(212) 452 74 62",
+            "typeOfUse": "Kısıtlı Kullanım",
+            "officeModel": "W22",
+            "weekdaysTime": "- - -",
+            "weekendTime": "18:00 - 23:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Bahçelievler / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.198277",
+        "lng": "28.822729",
+        "data": {
+            "title": "Shell, Eyüp",
+            "address": "Kuzey Marmara Otoyolu Shell Akaryakıt",
+            "phone": "0(000) 444 20 20",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": " - ",
+            "weekendTime": " - ",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": null,
+            "city": "Eyüpsultan / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.198982",
+        "lng": "28.825754",
+        "data": {
+            "title": "Aytemiz, Eyüp",
+            "address": "Kuzey Marmara Otoyolu Aytemiz Akaryakıt",
+            "phone": "0(000) 444 22 98",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": null,
+            "city": "Eyüpsultan / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.032258",
+        "lng": "28.974309",
+        "data": {
+            "title": "The Marmara, Pera",
+            "address": "Asmalı Mescit Mah., Meşrutiyet Cad No:93, Tepebaşı",
+            "phone": "0(212) 334 03 00",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Beyoğlu / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.036513",
+        "lng": "28.986282",
+        "data": {
+            "title": "The Marmara, Taksim",
+            "address": "The Marmara Taksim, Taksim Meydanı",
+            "phone": "0(212) 334 83 00",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Beyoğlu / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.040337",
+        "lng": "28.992262",
+        "data": {
+            "title": "Borusan Oto, Dolmabahçe",
+            "address": "Askerocağı Cad., Süzer Plaza, No:6",
+            "phone": "0(212) 377 00 00",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Şişli / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.041370",
+        "lng": "29.005408",
+        "data": {
+            "title": "Shangri-La Bosphorus Hotel",
+            "address": "Sinanpaşa Mah, Hayrettin İskelesi Sok, No:1",
+            "phone": "0(212) 275 88 88",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Beşiktaş / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.059668",
+        "lng": "28.979335",
+        "data": {
+            "title": "Hilton İstanbul Bomonti Hotel",
+            "address": "Silahşör Cad. No:42, Bomonti",
+            "phone": "0(212) 375 30 00",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Şişli / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.062606",
+        "lng": "28.988784",
+        "data": {
+            "title": "Radisson Blu Hotel, Şişli",
+            "address": "19 Mayıs Cad., No: 2",
+            "phone": "0(212) 375 00 00",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Şişli / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.058606",
+        "lng": "29.000427",
+        "data": {
+            "title": "Selenium, Fulya",
+            "address": "Dikilitaş Mah., Hakkı Yeten Cad.",
+            "phone": "0(212) 215 55 55",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Beşiktaş / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.064011",
+        "lng": "29.002472",
+        "data": {
+            "title": "Gayrettepe Taşyapı - Özgün Katlı Otopark",
+            "address": "Gayrettepe Mah., Girne Sok., No:1",
+            "phone": "0(212) 267 23 88",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Beşiktaş / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.063892",
+        "lng": "29.010958",
+        "data": {
+            "title": "İspark, Balmumcu",
+            "address": "İrfan Baştuğ Paşa Cad. Balmumcu",
+            "phone": "-",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Beşiktaş / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.078171",
+        "lng": "29.011318",
+        "data": {
+            "title": "Kanyon AVM",
+            "address": "Kanyon Alışveriş Merkezi, Esentepe Mah. Büyükdere Caddesi, No:185",
+            "phone": "0(212) 317 53 00",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Şişli / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.120314",
+        "lng": "29.047278",
+        "data": {
+            "title": "Borusan Oto, İstinye",
+            "address": "İstinye Mahallesi, Sarıyer Caddesi, No:77",
+            "phone": "0(212) 359 30 30",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Sarıyer / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.120314",
+        "lng": "29.047278",
+        "data": {
+            "title": "Borusan Oto, İstinye",
+            "address": "İstinye Mahallesi, Sarıyer Caddesi, No:77",
+            "phone": "0(212) 359 30 30",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Sarıyer / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.141054",
+        "lng": "29.057614",
+        "data": {
+            "title": "The Grand Tarabya",
+            "address": "Haydar Aliyev Cad., No:154, Tarabya",
+            "phone": "0(212) 363 33 00",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Sarıyer / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.000695",
+        "lng": "29.031938",
+        "data": {
+            "title": "Tepe Nautilus",
+            "address": "Acıbadem Mah. Fatih Cad. No:1",
+            "phone": "0(216) 339 39 29",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Kadıköy / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "41.021069",
+        "lng": "29.039375",
+        "data": {
+            "title": "Capitol AVM",
+            "address": "Altunizade Mah., Mahir İz Cad., No: 4",
+            "phone": "0(216) 554 77 77",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Üsküdar / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "41.000813",
+        "lng": "29.054344",
+        "data": {
+            "title": "Akasya AVM",
+            "address": "Ankara Devlet Yolu, Haydar Paşa Yönü, 4. km, Acıbadem Mah., Çeçen Sokak",
+            "phone": "0(216) 325 03 72",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Üsküdar / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "40.988682",
+        "lng": "29.085714",
+        "data": {
+            "title": "Optimum",
+            "address": "Yenisahra Mah. İstiklal Sok. No:2/B",
+            "phone": "0(216) 664 14 14",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Ataşehir / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "40.986126",
+        "lng": "29.100428",
+        "data": {
+            "title": "Palladium AVM",
+            "address": "Palladium Alışveriş Merkezi, Barbaros Mah. Halk Cad. No:8-B",
+            "phone": "0(216) 663 15 00",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "09:00 - 22:00",
+            "weekendTime": "09:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Ataşehir / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "40.989895",
+        "lng": "29.104443",
+        "data": {
+            "title": "Borusan Oto, Ataşehir",
+            "address": "Barbaros Mah., Ihlamur Sok., No:2/1, A/A",
+            "phone": "0(216) 250 92 92",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "500 V, 120 A, DC",
+            "city": "Ataşehir / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "41.026535",
+        "lng": "29.127747",
+        "data": {
+            "title": "Buyaka AVM",
+            "address": "Fatih Sultan Mehmet Mah. Balkan Cad. No:56",
+            "phone": "0(216) 290 75 10",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Ümraniye / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "40.961582",
+        "lng": "29.112211",
+        "data": {
+            "title": "Kosifler Oto, Küçükyalı",
+            "address": "İçerenköy Mh. Askent Sokak 3B D:3-6",
+            "phone": "0(216) 578 33 33",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "08:30 - 18:00",
+            "weekendTime": "18:00 - 16:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Ataşehir / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "40.955299",
+        "lng": "29.118095",
+        "data": {
+            "title": "Doğuş Otomotiv - Turkcell, Maltepe",
+            "address": "Aydınevler Mah. İnönü cad. No:20 Küçükyalı",
+            "phone": "-",
+            "typeOfUse": "VOLKSWAGEN Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Maltepe / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "40.928640",
+        "lng": "29.146784",
+        "data": {
+            "title": "Ayedaş Genel Müdürlüğü",
+            "address": "Bağlarbaşı Mah., Refahevler Sok., No:2/2, B-Blok",
+            "phone": "0(216) 500 64 00",
+            "typeOfUse": "AYEDAŞ Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Maltepe / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "40.919983",
+        "lng": "29.164553",
+        "data": {
+            "title": "Maltepe Park AVM",
+            "address": "Cevizli Mah., Tugay Yolu, No:67",
+            "phone": "0(850) 207 57 67",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Maltepe / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "40.918172",
+        "lng": "29.177810",
+        "data": {
+            "title": "ASF Otomotiv, Kartal",
+            "address": "E-5 Yanyol Pamukkale Sok. No: 2, Soğanlık",
+            "phone": "0(216) 427 37 47",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Kartal / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "41.027325",
+        "lng": "29.237976",
+        "data": {
+            "title": "Gül-Al, Çekmeköy",
+            "address": "Ekşioğlu mah. Şehitler Cad. No:32",
+            "phone": "0(216) 484 48 48",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "08:30 - 18:00",
+            "weekendTime": "18:00 - 16:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Çekmeköy / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "40.865791",
+        "lng": "29.275307",
+        "data": {
+            "title": "Pendorya Alışveriş Merkezi",
+            "address": "Çamçeşme Mah., Fabrika Sok., No:5",
+            "phone": "0(216) 670 20 80",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Pendik / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "40.891113",
+        "lng": "29.378279",
+        "data": {
+            "title": "Sabancı Üniversitesi",
+            "address": "Sabancı Üniversitesi, Orta Mahalle, Üniversite Caddesi, No:27",
+            "phone": "0(216) 483 90 00",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "09:00 - 16:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Tuzla / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "40.865818",
+        "lng": "29.396120",
+        "data": {
+            "title": "Doğuş Otomotiv, Kocaeli",
+            "address": "Şekerpınar, No:22 Anadolu Cad.",
+            "phone": "0(262) 676 90 90",
+            "typeOfUse": "VOLKSWAGEN Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Çayırova / Kocaeli"
+        }
+    },
+    {
+        "lat": "40.854267",
+        "lng": "29.414587",
+        "data": {
+            "title": "Hexagon Studio",
+            "address": "Taysad Organize Sanayi Bölgesi 1. Cadde 15. Yol No:7",
+            "phone": "0(262) 673 21 00",
+            "typeOfUse": "HEXAGON Araçlar",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 03:00",
+            "weekendTime": "- - -",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Çayırova / Kocaeli"
+        }
+    },
+    {
+        "lat": "40.786926",
+        "lng": "29.417063",
+        "data": {
+            "title": "ASF Otomotiv, Gebze",
+            "address": "İstasyon, 1460. Sok. No: 1",
+            "phone": "0(262) 656 04 04",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Gebze / Kocaeli"
+        }
+    },
+    {
+        "lat": "40.787437",
+        "lng": "29.458794",
+        "data": {
+            "title": "TÜBİTAK MAM",
+            "address": "Barış Mah. Dr. Zeki Acar Cad. No: 1",
+            "phone": "0(262) 677 20 00",
+            "typeOfUse": "TÜBİTAK Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Gebze / Kocaeli"
+        }
+    },
+    {
+        "lat": "40.755089",
+        "lng": "29.948366",
+        "data": {
+            "title": "Ernaz Otomotiv",
+            "address": "Körfez Mah. Sefa Sirmen Bulvarı, Eski Gölcük Yolu, Outlet Center Karşısı, Saraybahçe",
+            "phone": "0(262) 335 38 60",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "İzmit / Kocaeli"
+        }
+    },
+    {
+        "lat": "40.727570",
+        "lng": "30.068260",
+        "data": {
+            "title": "Shell, Sapanca (Güney)",
+            "address": "Kınalı Sakarya Otoyolu, Tepetarla Mevkii, Güney Kısım",
+            "phone": "0(262) 353 36 55",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Kartepe / Kocaeli"
+        }
+    },
+    {
+        "lat": "40.728073",
+        "lng": "30.072037",
+        "data": {
+            "title": "Shell, Sapanca (Kuzey)",
+            "address": "Kınalı Sakarya Otoyolu, Tepetarla Mevkii, Kuzey Kısım",
+            "phone": "0(262) 353 36 55",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Kartepe / Kocaeli"
+        }
+    },
+    {
+        "lat": "40.778324",
+        "lng": "30.365519",
+        "data": {
+            "title": "Serdivan AVM",
+            "address": "Arabacı Alanı Mah. Mehmet Akif Ersoy Cad. No:25",
+            "phone": "0(264) 777 18 20",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Adapazarı / Sakarya"
+        }
+    },
+    {
+        "lat": "40.722942",
+        "lng": "31.466892",
+        "data": {
+            "title": "Highway Outlet Alışveriş ve Yaşam Merkezi",
+            "address": "Ankara-İstanbul Otoyolu, 227. Km, Elmalık Mevkii",
+            "phone": "0(374) 250 10 14",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Merkez / Bolu"
+        }
+    },
+    {
+        "lat": "40.306919",
+        "lng": "29.061878",
+        "data": {
+            "title": "Teknik Oto, Osmangazi",
+            "address": "Ovaakça Çeşmebaşı Mahallesi, Yeni Yalova Yolu Cd. No:65",
+            "phone": "0(224) 280 49 20",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Osmangazi / Bursa"
+        }
+    },
+    {
+        "lat": "40.239697",
+        "lng": "29.062612",
+        "data": {
+            "title": "Karoto Otomotiv",
+            "address": "Yeni Yalova Yolu, 5. Km, No:399",
+            "phone": "0(224) 211 36 51",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Osmangazi / Bursa"
+        }
+    },
+    {
+        "lat": "40.212379",
+        "lng": "28.927334",
+        "data": {
+            "title": "Teknik Oto, Nilüfer",
+            "address": "Altınşehir Mahallesi, İzmir Cd. No:281",
+            "phone": "0(224) 441 68 66",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Nilüfer / Bursa"
+        }
+    },
+    {
+        "lat": "39.636703",
+        "lng": "27.882845",
+        "data": {
+            "title": "Akkaş Otomotiv",
+            "address": "Çayırhisar Mah. İzmir Cad. No:5/A",
+            "phone": "0(266) 221 33 66",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Merkez / Balıkesir"
+        }
+    },
+    {
+        "lat": "38.625881",
+        "lng": "27.436014",
+        "data": {
+            "title": "Ordu Motorlu Araçlar",
+            "address": "2. Anafartalar Mah. Mimarsinan Bulvarı, 1527 Sok. No:18/A",
+            "phone": "0(236) 229 29 29",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Merkez / Manisa"
+        }
+    },
+    {
+        "lat": "38.474655",
+        "lng": "27.074982",
+        "data": {
+            "title": "Mavibahçe AVM",
+            "address": "Mavişehir, Cahey Dudayev Blv.",
+            "phone": "0(232) 600 04 44",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Karşıyaka / İzmir"
+        }
+    },
+    {
+        "lat": "38.468285",
+        "lng": "27.113373",
+        "data": {
+            "title": "Ak-Tan Petrol, Karşıyaka",
+            "address": "Anadolu Caddesi No:325 Karşıyaka",
+            "phone": "0(232) 367 53 53",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Karşıyaka / İzmir"
+        }
+    },
+    {
+        "lat": "38.455146",
+        "lng": "27.198735",
+        "data": {
+            "title": "Özgörkey Otomotiv",
+            "address": "Üniversite Caddesi No:66",
+            "phone": "0(232) 388 19 90",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "08:30 - 18:00",
+            "weekendTime": "18:00 - 16:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Bornova / İzmir"
+        }
+    },
+    {
+        "lat": "38.360264",
+        "lng": "27.136177",
+        "data": {
+            "title": "Ermat Motorlu Araçlar",
+            "address": "Binbaşı Reşat Bey Mah. Akçay Cad. No:25/1",
+            "phone": "0(232) 253 66 66",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Gaziemir / İzmir"
+        }
+    },
+    {
+        "lat": "38.338852",
+        "lng": "27.135082",
+        "data": {
+            "title": "Optimum Outlet ve Eğlence Merkezi",
+            "address": "Akçay Cad., No:101",
+            "phone": "0(850) 207 57 67",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Gaziemir / İzmir"
+        }
+    },
+    {
+        "lat": "37.837116",
+        "lng": "27.845219",
+        "data": {
+            "title": "Mimar Motorlu Araçlar",
+            "address": "7 Eylül Mahallesi Muğla Bulvarı, No:8",
+            "phone": "0(256) 226 70 61",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Merkez / Aydın"
+        }
+    },
+    {
+        "lat": "37.809990",
+        "lng": "29.069582",
+        "data": {
+            "title": "Sadıkoğulları Otomotiv",
+            "address": "Akçeşme Mah. Menderes Bulvarı, No:150, Gümüşler",
+            "phone": "0(258) 371 33 66",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Merkez / Denizli"
+        }
+    },
+    {
+        "lat": "37.260483",
+        "lng": "28.214270",
+        "data": {
+            "title": "Kutay Motorlu Araçlar",
+            "address": "Muğla Aydın Karayolu üzeri 10. Km Salihpaşalar Mevkii, Bayir Belediyesi",
+            "phone": "0(252) 225 35 90",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Merkez / Muğla"
+        }
+    },
+    {
+        "lat": "37.031483",
+        "lng": "27.416269",
+        "data": {
+            "title": "Değirmenburnu Residence",
+            "address": "Eskiçeşme Mah. Osman Nuri Bilgin Cad. No: 48\r\n",
+            "phone": "0(252) 313 00 17",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Bodrum / Muğla"
+        }
+    },
+    {
+        "lat": "36.845821",
+        "lng": "30.601185",
+        "data": {
+            "title": "Sarılar Otomotiv",
+            "address": "Havaalanı yolu 7. Km, No:198, Altınova",
+            "phone": "0(242) 226 25 26",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Kepez / Antalya"
+        }
+    },
+    {
+        "lat": "36.883347",
+        "lng": "30.659853",
+        "data": {
+            "title": "Migros AVM, Antalya",
+            "address": "Arapsuyu Mah., Atatürk Bulvarı No: 3",
+            "phone": "0(242) 230 11 11",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Konyaaltı / Antalya"
+        }
+    },
+    {
+        "lat": "36.856689",
+        "lng": "30.738808",
+        "data": {
+            "title": "The Marmara, Antalya",
+            "address": "Şirinyalı Mah., Eski Lara Yolu, No:102, Lara",
+            "phone": "0(242) 249 36 00",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Muratpaşa / Antalya"
+        }
+    },
+    {
+        "lat": "36.914539",
+        "lng": "30.776699",
+        "data": {
+            "title": "Kosifler Oto, Antalya",
+            "address": "Altınova Sinan Mah. Serik Cd. No: 239",
+            "phone": "0(242) 320 44 00",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Kepez / Antalya"
+        }
+    },
+    {
+        "lat": "36.915352",
+        "lng": "30.778305",
+        "data": {
+            "title": "Günlas Chevrolet, Antalya",
+            "address": "Sinan Mah., Serik Cad., Havaalanı Yolu Üzeri 7. Km, No:198",
+            "phone": "0(242) 340 20 20",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Kepez / Antalya"
+        }
+    },
+    {
+        "lat": "36.920994",
+        "lng": "30.788153",
+        "data": {
+            "title": "Zamanlar Otomotiv, Antalya",
+            "address": "Altınova Sinan Mah. Serik Cad. No:345",
+            "phone": "0(242) 340 10 00",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Merkez / Antalya"
+        }
+    },
+    {
+        "lat": "37.924061",
+        "lng": "32.527344",
+        "data": {
+            "title": "Konya Motorlu Araçlar",
+            "address": "Ankara yolu üzeri 4. Km, Büsan Sanayi Sitesi Girişi, No:218-220",
+            "phone": "0(332) 345 04 85",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Karatay / Konya"
+        }
+    },
+    {
+        "lat": "39.877495",
+        "lng": "32.705788",
+        "data": {
+            "title": "Base Life Club",
+            "address": "Angora Cad., No:209/10, Beysupark, Çayyolu",
+            "phone": "0(312) 225 41 43",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "06:00 - 23:00",
+            "weekendTime": "06:00 - 23:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Çankaya / Ankara"
+        }
+    },
+    {
+        "lat": "39.941555",
+        "lng": "32.712963",
+        "data": {
+            "title": "Aydoğanlar-Ulus, Etimesgut",
+            "address": "Bahçekapı Mahallesi, 6. Cad. No: 9/A",
+            "phone": "0(312) 278 42 22",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Etimesgut / Ankara"
+        }
+    },
+    {
+        "lat": "39.883251",
+        "lng": "32.757549",
+        "data": {
+            "title": "Bilkent Center",
+            "address": "Üniversiteler Mah., Bilkent Bulvarı, Bilkent",
+            "phone": "0(312) 266 05 16",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Çankaya / Ankara"
+        }
+    },
+    {
+        "lat": "39.909901",
+        "lng": "32.775925",
+        "data": {
+            "title": "Kentpark AVM",
+            "address": "Mustafa Kemal Mah., Eskişehir Yolu 7.km, No:164",
+            "phone": "0(850) 222 15 00",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 23:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Çankaya / Ankara"
+        }
+    },
+    {
+        "lat": "39.909199",
+        "lng": "32.813515",
+        "data": {
+            "title": "Başkent Kule",
+            "address": "Kızılırmak Mah., Ufuk Üniversitesi Cad., No:1, Başkent Kule, Çukurambar",
+            "phone": "0(000) 444 43 72",
+            "typeOfUse": "ENERJISA Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Çankaya / Ankara"
+        }
+    },
+    {
+        "lat": "39.909225",
+        "lng": "32.813824",
+        "data": {
+            "title": "Başkent Kule",
+            "address": "Kızılırmak Mah., Ufuk Üniversitesi Cad., No:1, Başkent Kule, Çukurambar",
+            "phone": "0(000) 444 43 72",
+            "typeOfUse": "ENERJISA Araçlar",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "500 V, 120 A, DC",
+            "city": "Çankaya / Ankara"
+        }
+    },
+    {
+        "lat": "39.897457",
+        "lng": "32.813118",
+        "data": {
+            "title": "Borusan Oto, Balgat",
+            "address": "Mevlana Bulvarı (Konya Yolu), No:181/A",
+            "phone": "0(312) 253 33 33",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Çankaya / Ankara"
+        }
+    },
+    {
+        "lat": "39.894829",
+        "lng": "32.813747",
+        "data": {
+            "title": "Borusan Oto, Balgat",
+            "address": "Mevlana Bulvarı (Konya Yolu), No:181/A",
+            "phone": "0(312) 253 33 33",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "500 V, 120 A, DC",
+            "city": "Çankaya / Ankara"
+        }
+    },
+    {
+        "lat": "39.888393",
+        "lng": "32.812054",
+        "data": {
+            "title": "Taurus AVM",
+            "address": "Konya Yolu, Mevlana Bulvarı, No:190 B, Balgat",
+            "phone": "0(312) 221 62 62",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Çankaya / Ankara"
+        }
+    },
+    {
+        "lat": "39.884281",
+        "lng": "32.811668",
+        "data": {
+            "title": "Neziroğlu Otomotiv, Ankara",
+            "address": "Konya Devlet Yolu Üzeri, Fen Lisesi Kavşağı, No:208",
+            "phone": "0(312) 284 52 52",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Çankaya / Ankara"
+        }
+    },
+    {
+        "lat": "39.847862",
+        "lng": "32.832092",
+        "data": {
+            "title": "Panora AVM",
+            "address": "Turan Güneş Bulvarı, No:182, Oran",
+            "phone": "0(312) 490 42 50",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Çankaya / Ankara"
+        }
+    },
+    {
+        "lat": "39.953236",
+        "lng": "32.830912",
+        "data": {
+            "title": "Anka Mall AVM",
+            "address": "Gazi Mah., Mevlana Bulv., No: 2, Akköprü Mevkii",
+            "phone": "0(312) 541 12 12",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Yenimahalle / Ankara"
+        }
+    },
+    {
+        "lat": "39.929506",
+        "lng": "32.848305",
+        "data": {
+            "title": "Başkent, Tok Sokak",
+            "address": "Eti Mah., Tok Sok., No:6",
+            "phone": "0(850) 433 72 75",
+            "typeOfUse": "ENERJISA Araçlar",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "500 V, 120 A, DC",
+            "city": "Çankaya / Ankara"
+        }
+    },
+    {
+        "lat": "39.889626",
+        "lng": "32.931175",
+        "data": {
+            "title": "Arkas Otomotiv, Ankara",
+            "address": "Doğukent Caddesi",
+            "phone": "-",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Çankaya / Ankara"
+        }
+    },
+    {
+        "lat": "40.087612",
+        "lng": "32.974655",
+        "data": {
+            "title": "Borusan Oto, Esenboğa",
+            "address": "Esenboğa Yolu 22.km A Blok",
+            "phone": "0(312) 840 52 52",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "08:30 - 18:00",
+            "weekendTime": "18:00 - 16:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Akyurt / Ankara"
+        }
+    },
+    {
+        "lat": "38.594025",
+        "lng": "34.718216",
+        "data": {
+            "title": "Kapadokya Hill Hotel",
+            "address": "Afetevleri mah. Semt Niğde Cad.1",
+            "phone": "0(384) 215 44 55",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Merkez / Nevşehir"
+        }
+    },
+    {
+        "lat": "38.739155",
+        "lng": "35.539291",
+        "data": {
+            "title": "Gülpar Motorlu Araçlar, Kayseri",
+            "address": "Anbar Mah. Osman Kavuncu Bulvarı, No:538",
+            "phone": "0(352) 311 54 14",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Melikgazi / Kayseri"
+        }
+    },
+    {
+        "lat": "36.754211",
+        "lng": "34.537018",
+        "data": {
+            "title": "Gürsoy Otomotiv, Mersin",
+            "address": "Akdeniz Mah. GMK Bulvarı, No:546",
+            "phone": "0(324) 359 19 00",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Mezitli / Mersin"
+        }
+    },
+    {
+        "lat": "36.771904",
+        "lng": "34.570961",
+        "data": {
+            "title": "Mersin Marina",
+            "address": "Eğriçam, Eğriçam Mah., Adnan Menderes Bulvarı, 33AG",
+            "phone": "0(324) 330 03 00",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Yenişehir / Mersin"
+        }
+    },
+    {
+        "lat": "36.903820",
+        "lng": "34.873417",
+        "data": {
+            "title": "Çayan Otomotiv, Mersin",
+            "address": "Yunusemre Mah. Nato Yolu Kavşağı, No:74, Yeni Hal Karşısı",
+            "phone": "0(324) 614 52 40",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Tarsus / Mersin"
+        }
+    },
+    {
+        "lat": "36.977905",
+        "lng": "35.080124",
+        "data": {
+            "title": "Borusan Oto, Tarsus",
+            "address": "Yenice Tarsus, Adana Mersin E5 Karayolu 21.km",
+            "phone": "0(324) 615 06 15",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Tarsus / Mersin"
+        }
+    },
+    {
+        "lat": "36.573631",
+        "lng": "36.159321",
+        "data": {
+            "title": "Reles İthalat ve İhracat, İskenderun",
+            "address": "Antakya Yolu Üzeri, 5. Km",
+            "phone": "0(326) 456 22 00",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "İskenderun / Hatay"
+        }
+    },
+    {
+        "lat": "36.278797",
+        "lng": "36.191429",
+        "data": {
+            "title": "Reles İthalat ve İhracat, Antakya",
+            "address": "Antakya-İskenderun Karayolu Üzeri, 7. Km\r\n",
+            "phone": "0(326) 456 22 00",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Merkez / Hatay"
+        }
+    },
+    {
+        "lat": "37.076534",
+        "lng": "37.371040",
+        "data": {
+            "title": "İpekyol Plaza",
+            "address": "Mücahitler Mah. Sani Konukoğlu Bul. No:84, Karşıyaka Kavşağı",
+            "phone": "-",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": null,
+            "city": "Şehitkamil / Gaziantep"
+        }
+    },
+    {
+        "lat": "37.081856",
+        "lng": "37.420280",
+        "data": {
+            "title": "İmam Kayalıoğulları",
+            "address": "Göllüce Mah. Sani Konukoğlu Bulvarı, No:1",
+            "phone": "0(342) 338 66 66",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Şehitkamil / Gaziantep"
+        }
+    },
+    {
+        "lat": "37.233356",
+        "lng": "40.633698",
+        "data": {
+            "title": "Tuğmaner Otomotiv, Mardin",
+            "address": "Şanlıurfa-Mardin Yolu üzeri, Fıstık Vadisi Mevkii, Hanikaharzem Köyü, Ada 101 Parsel 2",
+            "phone": "0(482) 313 47 47",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Kızıltepe / Mardin"
+        }
+    },
+    {
+        "lat": "41.236126",
+        "lng": "36.413403",
+        "data": {
+            "title": "Onur Otomotiv, Samsun",
+            "address": "İstiklal Mah. Atatürk Bulvarı, Samsun - Ordu Karayolu 4. Km, No:205",
+            "phone": "0(362) 266 54 64",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Tekkeköy / Samsun"
+        }
+    },
+    {
+        "lat": "40.977222",
+        "lng": "37.943485",
+        "data": {
+            "title": "Köy Otomotiv, Ordu",
+            "address": "Cumhuriyet Mah. Mustafa Kemal Bulvarı, No:56",
+            "phone": "0(452) 234 91 92",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Merkez / Ordu"
+        }
+    },
+    {
+        "lat": "40.963482",
+        "lng": "39.838776",
+        "data": {
+            "title": "Koçmak Otomotiv, Trabzon",
+            "address": "Şana-Kaşüstü Beldesi, Rize Devlet Yolu Cad. Koçmak Plaza",
+            "phone": "0(462) 325 03 40",
+            "typeOfUse": "RENAULT Araçlar",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 18:00",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Yomra / Trabzon"
+        }
+    },
+    {
+        "lat": "41.050489",
+        "lng": "28.671690",
+        "data": {
+            "title": "Bemcar Oto",
+            "address": "Selahaddin Eyyubi Mahallesi, Erzurum Kongre Cd. No: 6",
+            "phone": "0(212) 669 09 09",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "PM22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Esenyurt / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.002431",
+        "lng": "28.822660",
+        "data": {
+            "title": "İstanbul Oto",
+            "address": "Çobançeşme Mahallesi, Sanayi Cd. No:54, Yenibosna",
+            "phone": "0(212) 660 99 60",
+            "typeOfUse": "BMW / JLR Araçlar",
+            "officeModel": "PM74",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "220 V, 32 A, 3 Faz AC",
+            "socket2": null,
+            "city": "Bahçelievler / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.039570",
+        "lng": "28.969293",
+        "data": {
+            "title": "Otopratik - Arıcıoğlu",
+            "address": "İstiklal Mahallesi, Piyale Paşa Bulvarı No:4",
+            "phone": "0(212) 250 15 15",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "PM22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": null,
+            "city": "Beyoğlu / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.081847",
+        "lng": "29.006852",
+        "data": {
+            "title": "Tekfen Tower",
+            "address": "Esentepe Mah. Büyükdere Caddesi No:209 4.Levent",
+            "phone": "0(212) 359 35 00",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "PM22",
+            "weekdaysTime": "07:30 - 17:30",
+            "weekendTime": "- - -",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": null,
+            "city": "Şişli / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.103090",
+        "lng": "28.973454",
+        "data": {
+            "title": "Borusan Oto , Vadi",
+            "address": "Hamidiye Mah, Selçuklu Cad., No:10, VadiPark B blok, Kat:2",
+            "phone": "0(212) 952 74 00",
+            "typeOfUse": "BMW / JLR Araçlar",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "10:00 - 18:00",
+            "weekendTime": "08:00 - 19:00",
+            "socket1": "500 V, 125 A, DC",
+            "socket2": "500 V, 120 A, DC",
+            "city": "Kağıthane / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.109525",
+        "lng": "29.006948",
+        "data": {
+            "title": "Uniq İstanbul",
+            "address": "Huzur Mh., Maslak Ayazağa Cd. No:4",
+            "phone": "0(850) 850 86 47",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "07:00 - 00:00",
+            "weekendTime": "08:00 - 01:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Sarıyer / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.010590",
+        "lng": "29.163316",
+        "data": {
+            "title": "Trend Oto",
+            "address": "Yukarı Dudullu Mahallesi, Necip Fazıl Blv. No:22",
+            "phone": "0(216) 466 50 50",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 16:00",
+            "weekendTime": "08:30 - 18:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Ümraniye / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "40.979534",
+        "lng": "29.097031",
+        "data": {
+            "title": "Aytemiz, Kadıköy",
+            "address": "19 Mayıs Mah. İnönü Cad. 101/1",
+            "phone": "0(216) 362 91 13",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "500 V, 120 A, DC",
+            "city": "Kadıköy / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "40.976915",
+        "lng": "29.228389",
+        "data": {
+            "title": "Borusan Oto, Samandıra",
+            "address": "Akpınar Mahallesi, Bilim Cd. No:2",
+            "phone": "0(216) 228 80 00",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 125 A, DC",
+            "socket2": "-",
+            "city": "Sancaktepe / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "40.774093",
+        "lng": "29.968670",
+        "data": {
+            "title": "Öztorun Oto",
+            "address": "Yenişehir Mahallesi, Araç Sk. No:55",
+            "phone": "0(000) 444 12 69",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "İzmit / Kocaeli"
+        }
+    },
+    {
+        "lat": "40.768909",
+        "lng": "30.380166",
+        "data": {
+            "title": "Sandıkçı Oto",
+            "address": "Hanlıköy Mah. Kartopu Sok. No:19/A",
+            "phone": "0(264) 666 27 00",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Arifiye / Sakarya"
+        }
+    },
+    {
+        "lat": "40.233570",
+        "lng": "28.781270",
+        "data": {
+            "title": "Aytemiz - İzmir Otoyolu, Bursa",
+            "address": "İzmir Otoyolu OHT-4 Aytemiz Akaryakıt İstasyonu İstanbul Yönü",
+            "phone": "0(000) 444 22 98",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 125 A, DC",
+            "socket2": "500 V, 125 A, DC",
+            "city": "Nilüfer / Bursa"
+        }
+    },
+    {
+        "lat": "38.428949",
+        "lng": "27.135627",
+        "data": {
+            "title": "Swissotel",
+            "address": "İsmet Kaptanpaşa Mah. Gaziosmanpaşa Bulvarı No:1 Alsancak",
+            "phone": "0(232) 414 00 00",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 125 A, DC",
+            "socket2": "500 V, 125 A, DC",
+            "city": "Konak / İzmir"
+        }
+    },
+    {
+        "lat": "37.871705",
+        "lng": "27.355967",
+        "data": {
+            "title": "Aytemiz, Söke",
+            "address": "Gölbent Mah. Gölbent Sok. No:126 Cappello AVM ",
+            "phone": "0(000) 444 22 98",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 125 A, DC",
+            "socket2": "500 V, 125 A, DC",
+            "city": "Söke / Aydın"
+        }
+    },
+    {
+        "lat": "37.057256",
+        "lng": "27.367597",
+        "data": {
+            "title": "Borusan Oto, Bodrum",
+            "address": "Konacık Mah. Atatürk Bulvarı No: 293/B",
+            "phone": "0(252) 311 04 44",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "PM22",
+            "weekdaysTime": "08:30 - 18:00",
+            "weekendTime": "18:00 - 16:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Bodrum / Muğla"
+        }
+    },
+    {
+        "lat": "36.876871",
+        "lng": "31.004939",
+        "data": {
+            "title": "The Land of Legends",
+            "address": "Kadriye Mah. Atatürk Cad. No:114/1-2",
+            "phone": "0(000) 444 99 13",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Serik / Antalya"
+        }
+    },
+    {
+        "lat": "39.942448",
+        "lng": "32.712159",
+        "data": {
+            "title": "AU Otomotiv",
+            "address": "Bahçekapı Mahallesi, Sanayi Bulvarı No:10",
+            "phone": "0(312) 278 42 22",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "N22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Etimesgut / Ankara"
+        }
+    },
+    {
+        "lat": "40.062369",
+        "lng": "32.776324",
+        "data": {
+            "title": "Aytemiz, Yenimahalle",
+            "address": "Mehmet Akif Ersoy Mah. Anadolu Bul. No:110/B",
+            "phone": "0(312) 397 57 61",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 125 A, DC",
+            "socket2": "500 V, 125 A, DC",
+            "city": "Yenimahalle / Ankara"
+        }
+    },
+    {
+        "lat": "39.912637",
+        "lng": "32.811535",
+        "data": {
+            "title": "Next Level AVM",
+            "address": "Kızılırmak Mah, Eskişehir Yolu No:3",
+            "phone": "0(000) 444 47 19",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "N22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Çankaya / Ankara"
+        }
+    },
+    {
+        "lat": "40.545608",
+        "lng": "34.947334",
+        "data": {
+            "title": "AHL Park AVM",
+            "address": "Çepni Mah. 1. Cad No:7 Kerebigazi",
+            "phone": "0(364) 214 50 50",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "PM22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Merkez / Çorum"
+        }
+    },
+    {
+        "lat": "39.920765",
+        "lng": "41.279682",
+        "data": {
+            "title": "Ergüleryüz Otomotiv",
+            "address": "Ömer Nasuhi Bilmen Mahallesi, Tortum Yolu No:212",
+            "phone": "0(442) 249 07 85",
+            "typeOfUse": "BMW Araçlar",
+            "officeModel": "PM22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Yakutiye / Erzurum"
+        }
+    },
+    {
+        "lat": "37.009343",
+        "lng": "37.437339",
+        "data": {
+            "title": "Hasan Kalyoncu Üniversitesi",
+            "address": "Şahinbey Mahallesi, Havalimanı Yolu 8.Km",
+            "phone": "0(342) 211 80 80",
+            "typeOfUse": "Halka Açık",
+            "officeModel": "W22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Şahinbey / Gaziantep"
+        }
+    },
+    {
+        "lat": "41.019790",
+        "lng": "28.676877",
+        "data": {
+            "title": "Lukoil Esenyurt",
+            "address": "Talatpaşa Mahallesi, Fatih Sultan Mehmet Caddesi",
+            "phone": "0(212) 620 92 14",
+            "typeOfUse": "ZES",
+            "officeModel": "W22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Esenyurt / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "40.993348",
+        "lng": "28.852358",
+        "data": {
+            "title": "Memorial Bahçelievler",
+            "address": "Bahçelievler Mahallesi, Eski Londra Asf Cd No:227",
+            "phone": "0(212) 314 66 66",
+            "typeOfUse": "ZES",
+            "officeModel": "W22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Bahçelievler / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.090923",
+        "lng": "28.937405",
+        "data": {
+            "title": "Finanskent Alibeyköy",
+            "address": "Güzeltepe Mahallesi, Fatih Sultan Mehmet Bulvarı (Baraj Yolu Cd.) No:26",
+            "phone": "0(850) 885 55 01",
+            "typeOfUse": "ZES",
+            "officeModel": "W22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Eyüpsultan / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.067598",
+        "lng": "29.017526",
+        "data": {
+            "title": "Zorlu Center Kapalı Otopark -1",
+            "address": "Zorlu Center, Levazım Mahallesi, Koru Sokak No:2",
+            "phone": "0(212) 924 01 24",
+            "typeOfUse": "ZES",
+            "officeModel": "W22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Beşiktaş / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.067598",
+        "lng": "29.017526",
+        "data": {
+            "title": "Zorlu Center Kapalı Otopark -2",
+            "address": "Zorlu Center, Levazım Mahallesi, Koru Sokak No:2",
+            "phone": "0(212) 924 01 24",
+            "typeOfUse": "ZES",
+            "officeModel": "W22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Beşiktaş / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.067598",
+        "lng": "29.017526",
+        "data": {
+            "title": "Zorlu Center",
+            "address": "Zorlu Center, Levazım Mahallesi, Koru Sokak No:2",
+            "phone": "0(212) 924 01 24",
+            "typeOfUse": "ZES",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "10:00 - 22:00",
+            "weekendTime": "10:00 - 22:00",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Beşiktaş / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "41.056066",
+        "lng": "29.023191",
+        "data": {
+            "title": "Migros Ortaköy",
+            "address": "Ortaköy Mh., Dereboyu Cad.",
+            "phone": "0(850) 310 21 95",
+            "typeOfUse": "ZES",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 22:00",
+            "weekendTime": "09:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Beşiktaş / İstanbul Avrupa"
+        }
+    },
+    {
+        "lat": "40.992578",
+        "lng": "29.126730",
+        "data": {
+            "title": "Migros Ataşehir",
+            "address": "Atatürk Mah, Turgut Özal Bulvarı No No:7",
+            "phone": "0(216) 579 30 50",
+            "typeOfUse": "ZES",
+            "officeModel": "W22",
+            "weekdaysTime": "09:00 - 22:00",
+            "weekendTime": "09:00 - 22:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Ataşehir / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "40.990452",
+        "lng": "29.175893",
+        "data": {
+            "title": "Lukoil Ferhatpaşa",
+            "address": "Ataşehir Ferhat Paşa Mahallesi, 52. Sk.",
+            "phone": "-",
+            "typeOfUse": "ZES",
+            "officeModel": "W22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Ataşehir / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "40.897817",
+        "lng": "29.254072",
+        "data": {
+            "title": "Lukoil Pendik",
+            "address": "Velibaba Mahallesi, Ankara Cd. No:5",
+            "phone": "0(000) 444 45 85",
+            "typeOfUse": "ZES",
+            "officeModel": "W22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Pendik / İstanbul Asya"
+        }
+    },
+    {
+        "lat": "40.773101",
+        "lng": "29.519254",
+        "data": {
+            "title": "Oksijen O3",
+            "address": "Diliskelesi Mahallesi, No:, 735. Sk. No:50",
+            "phone": "0(262) 754 00 29",
+            "typeOfUse": "ZES",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Dilovası / Kocaeli"
+        }
+    },
+    {
+        "lat": "40.525438",
+        "lng": "29.341014",
+        "data": {
+            "title": "Oksijen O37",
+            "address": "Cihanköy Mahallesi, O-5",
+            "phone": "0(262) 754 00 29",
+            "typeOfUse": "ZES",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Orhangazi / Bursa"
+        }
+    },
+    {
+        "lat": "40.390023",
+        "lng": "29.139788",
+        "data": {
+            "title": "Oksijen O68",
+            "address": "Engürücük Mah. Engürücük Sk. No:508",
+            "phone": "0(262) 754 00 29",
+            "typeOfUse": "ZES",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Gemlik / Bursa"
+        }
+    },
+    {
+        "lat": "39.842997",
+        "lng": "28.142866",
+        "data": {
+            "title": "Festiva Outlet ",
+            "address": "Aziziye Mahallesi",
+            "phone": "0(266) 867 00 00",
+            "typeOfUse": "ZES",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Susurluk / Balıkesir"
+        }
+    },
+    {
+        "lat": "38.942606",
+        "lng": "27.835259",
+        "data": {
+            "title": "Akhisar Novada AVM",
+            "address": "Seyit Ahmet Mah. 787. Sokak No:5 ",
+            "phone": "-",
+            "typeOfUse": "ZES",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "10:00 - 22:45",
+            "weekendTime": "10:00 - 22:45",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Akhisar / Manisa"
+        }
+    },
+    {
+        "lat": "38.477291",
+        "lng": "28.112292",
+        "data": {
+            "title": "Suresto Salihli",
+            "address": "Yeşilyurt Mahallesi, 797. Sk. No:15/1",
+            "phone": "0(236) 713 14 44",
+            "typeOfUse": "ZES",
+            "officeModel": "W22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Salihli / Manisa"
+        }
+    },
+    {
+        "lat": "38.614223",
+        "lng": "27.380523",
+        "data": {
+            "title": "Manisa Zorpet",
+            "address": "75. Yıl Mahallesi, 5305. Sk. No:3",
+            "phone": "-",
+            "typeOfUse": "ZES",
+            "officeModel": "W22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Merkez / Manisa"
+        }
+    },
+    {
+        "lat": "38.320594",
+        "lng": "27.137440",
+        "data": {
+            "title": "Gaziemir Vs Outlet",
+            "address": "Akçay Cad. No:176/A",
+            "phone": "0(232) 251 16 96",
+            "typeOfUse": "ZES",
+            "officeModel": "W22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Gaziemir / İzmir"
+        }
+    },
+    {
+        "lat": "38.320049",
+        "lng": "26.302702",
+        "data": {
+            "title": "Çeşme Marina",
+            "address": "Musalla Mahallesi 1016 Sokak 2/24",
+            "phone": "-",
+            "typeOfUse": "ZES",
+            "officeModel": "W2",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Çeşme / İzmir"
+        }
+    },
+    {
+        "lat": "39.916580",
+        "lng": "30.013718",
+        "data": {
+            "title": "Bozüyük Sarar Outlet",
+            "address": "Malhatun Cad. Çevre Yolu 3. Km., 11300 Saraycık Köyü",
+            "phone": "0(228) 315 00 00",
+            "typeOfUse": "ZES",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Bozüyük / Bilecik"
+        }
+    },
+    {
+        "lat": "39.800285",
+        "lng": "30.435930",
+        "data": {
+            "title": "Eskişehir Sarar",
+            "address": "Aşağı Söğütönü Mahallesi, Bursa Eskişehir Yolu No:634",
+            "phone": "0(222) 314 04 04",
+            "typeOfUse": "ZES",
+            "officeModel": "W22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "-",
+            "city": "Tepebaşı / Eskişehir"
+        }
+    },
+    {
+        "lat": "39.784227",
+        "lng": "30.501187",
+        "data": {
+            "title": "Tepebaşı Belediye Açık Otoparkı",
+            "address": "Hoşnudiye Mahallesi, 26130, Şahin Cd No:84",
+            "phone": "0(222) 211 40 00",
+            "typeOfUse": "ZES",
+            "officeModel": "W22",
+            "weekdaysTime": "07:30 - 01:00",
+            "weekendTime": "07:30 - 01:00",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Tepebaşı / Eskişehir"
+        }
+    },
+    {
+        "lat": "39.436107",
+        "lng": "31.556489",
+        "data": {
+            "title": "TŞÖF Sivrihisar",
+            "address": "Kurşunlu Mahallesi",
+            "phone": "-",
+            "typeOfUse": "ZES",
+            "officeModel": "W22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "380 V, 32 A, 3 Faz AC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Sivrihisar / Eskişehir"
+        }
+    },
+    {
+        "lat": "38.789897",
+        "lng": "30.456809",
+        "data": {
+            "title": "Afyon Kolaylı",
+            "address": "Afyon İzmir Karayolu 10. Km.",
+            "phone": "0(272) 252 55 51",
+            "typeOfUse": "ZES",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Merkez / Afyonkarahisar"
+        }
+    },
+    {
+        "lat": "37.782540",
+        "lng": "30.565011",
+        "data": {
+            "title": "Isparta Centrum Garden",
+            "address": "Sanayi Mah. Atatürk Bulvarı No:73",
+            "phone": "0(246) 224 18 04",
+            "typeOfUse": "ZES",
+            "officeModel": "QC45+22",
+            "weekdaysTime": "00:00 - 23:59",
+            "weekendTime": "00:00 - 23:59",
+            "socket1": "500 V, 120 A, DC",
+            "socket2": "380 V, 32 A, 3 Faz AC",
+            "city": "Merkez / Isparta"
+        }
+    }
+]

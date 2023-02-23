@@ -3,21 +3,15 @@ package com.infotech.model;
 import com.infotech.common.DbConn;
 import com.infotech.common.Operations;
 import com.infotech.common.Utils;
-
-import com.infotech.common.XmlToJson;
 import com.infotech.dao.SharzNetDao;
-
-import com.infotech.dao.GChargeDao;
 
 import java.sql.Connection;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
-import org.json.simple.parser.ParseException;
 
 import org.jsoup.nodes.Document;
-import org.jsoup.select.Elements;
 
 public class SharzNet {
     public static void findData(String tableName) {
@@ -43,7 +37,7 @@ public class SharzNet {
                      Utils.logInfo("Doc: " + doc);
                      doc = null;
                  }
-                 System.out.println("***** Insert islem yapiliyor....*********");
+                 Utils.showText("***** Insert islem yapiliyor....*********");
                  if(jsonA.size()>0){
                     cnn = DbConn.getPooledConnection();
                  }

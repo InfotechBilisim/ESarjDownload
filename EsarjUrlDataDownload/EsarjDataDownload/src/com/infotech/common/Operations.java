@@ -3,10 +3,13 @@ package com.infotech.common;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
+
 import java.util.HashMap;
+
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
+
 import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -39,7 +42,7 @@ public class Operations {
             columns += " ADRES VARCHAR2(512 CHAR),";
             columns += " TIP VARCHAR2(128 CHAR),";
             columns += " VERI_TARIHI DATE";
-        }else         if (type == 3) {
+        }else  if (type == 3) {
             columns = "ID NUMBER,";
             columns += " AD VARCHAR2(128 CHAR),";
             columns += " ADRES VARCHAR2(512 CHAR),";
@@ -72,6 +75,21 @@ public class Operations {
             columns += " TARIFF_ID NUMBER,";
             columns += " USAGE_TYPE VARCHAR2(32 CHAR),";
             columns += " TARIFF_INFO VARCHAR2(64 CHAR),";
+            columns += " VERI_TARIHI DATE";
+        } else if (type == 5) {
+            columns = "ID NUMBER(10,0),";
+            columns += " XCOOR NUMBER(20,10),";
+            columns += " YCOOR NUMBER(20,10),";            
+            columns += " AD VARCHAR2(128 CHAR),";
+            columns += " ADRES VARCHAR2(512 CHAR),";
+            columns += " IL_ADI VARCHAR2(128 CHAR),";
+            columns += " TEL VARCHAR2(128 CHAR),";
+            columns += " KULLANIM_TIPI VARCHAR2(128 CHAR),";
+            columns += " ISTASYON_TIPI VARCHAR2(128 CHAR),";
+            columns += " HAFTAICI VARCHAR2(128 CHAR),";
+            columns += " HAFTASONU VARCHAR2(128 CHAR),";
+            columns += " SOCKET_1 VARCHAR2(128 CHAR),";
+            columns += " SOCKET_2 VARCHAR2(128 CHAR),";
             columns += " VERI_TARIHI DATE";
         }
         return columns;
@@ -110,6 +128,12 @@ public class Operations {
                 Operations.trim(tableName, "ADRES");
                 Utils.showText("***************************************************");
                 groupByColumns = " ID, AD, IL_ADI, ILCE_ADI,EVSE_ORDER,CODE, STATION_ID, ADRES, XCOOR, YCOOR, USAGE_TYPE, STATUS, STATION_CODE, STATION_ONLINE, MAX_CURRENT";
+            } else if (type == 5) {
+                Operations.trim(tableName, "AD");
+                Operations.trim(tableName, "IL_ADI");
+                Operations.trim(tableName, "ADRES");
+                Utils.showText("***************************************************");
+                groupByColumns = " ID, AD, IL_ADI";
             }
         } catch (Exception e) {
             Utils.showError(" clearData  hata : " + tableName + " type: " + type);
@@ -242,7 +266,7 @@ public class Operations {
         try {
             cnn = DbConn.getPooledConnection();
             sql = "UPDATE " + table + " SET " + column + "=" + "REPLACE( " + column + ", '" + token + "','' )";
-            System.out.println(sql);
+            Utils.showText(sql);
             pstmt = cnn.prepareStatement(sql);
             pstmt.executeUpdate();
 

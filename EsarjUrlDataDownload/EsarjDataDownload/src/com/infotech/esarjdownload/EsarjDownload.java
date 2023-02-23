@@ -4,15 +4,17 @@ package com.infotech.esarjdownload;
 import com.infotech.common.Operations;
 import com.infotech.common.Utils;
 import com.infotech.model.GCharge;
+import com.infotech.model.HedefFilo;
 import com.infotech.model.SharzNet;
 import com.infotech.model.Voltrun;
 import com.infotech.model.Zes;
+
 import java.util.Scanner;
 
 
 public class EsarjDownload {
     private final static String app_name = "ESarj Data Downloader";
-    private final static String app_ver = "v.1.0 20230124";
+    private final static String app_ver = "v.1.1 20230223";
 
 
     public static void main(String[] args) {
@@ -23,13 +25,15 @@ public class EsarjDownload {
             int selected = 0;
             Utils.showText("Uygulama basladi. @" + Utils.getCurrentDateTime());
             do {
-                System.out.println("!!!!!UYGULAMA GUN ICINDE AYNI URL ICIN BIRDEN FAZLA CALISTIRILIRSA VAROLAN TABLO DROP EDILIP TEKRAR YARATILIR!!!!!");
-                System.out.println("Lutfen indirmek istediginiz datanin numarasini giriniz");
+                System.out.println("-> UYGULAMA GUN ICINDE AYNI URL ICIN BIRDEN FAZLA CALISTIRILIRSA VAROLAN TABLO DROP EDILIP TEKRAR YARATILIR.");
+                System.out.println("");
                 System.out.println("1 - Sharz.Net");
                 System.out.println("2 - ZES");
                 System.out.println("3 - G-Charge");
                 System.out.println("4 - Voltrun");
-                System.out.println("5 - Cikis");
+                System.out.println("5 - HedefFilo");
+                System.out.println("6 - Cikis");
+                System.out.println("Lutfen indirmek istediginiz datanin numarasini giriniz");
                 selected = keyboard.nextInt();
 
                 String date = Utils.getCurrentDate();
@@ -87,11 +91,24 @@ public class EsarjDownload {
                     groupByColumns = Operations.clearData(tableName, selected);
                     Operations.deleteDoubleRecord(tableName, groupByColumns);
                     Utils.showText("************************* Veri Temizleme Islemi Bitti....***********************");
+                } else if (selected == 5) {
+                    table = Utils.getParameter("hedefFiloTable");
+                    columns = Operations.createColums(selected);
+                    String tableName = table + date;
+                    Operations.createTable(tableName, columns);
+                    Utils.showText("************************* Veri Indirme Islemi Basladi...**************************");
+                    HedefFilo.findData(tableName);
+                    Utils.showText("************************* Veri Indirme Islemi Bitti...**************************");
+                    Utils.showText("************************* Veri Temizleme Islemi Basladi...***********************");
+                    groupByColumns = Operations.clearData(tableName, selected);
+                    Operations.deleteDoubleRecord(tableName, groupByColumns);
+                    Utils.showText("************************* Veri Temizleme Islemi Bitti....***********************");
+                    Utils.showText("");
                 } else {
                     Utils.showText(app_name + " cikis yapildi. @" + Utils.getCurrentDateTime());
                 }
 
-            } while (selected > 0 && selected < 5);
+            } while (selected > 0 && selected < 6);
             Utils.showText(app_name + " uygulamasi bitti. @" + Utils.getCurrentDateTime());
 
         } catch (Exception e) {

@@ -15,12 +15,8 @@ import java.net.URL;
 
 import java.nio.charset.StandardCharsets;
 
-import java.sql.Connection;
-
 import java.util.HashMap;
 import java.util.Map;
-
-import javax.print.Doc;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -29,13 +25,9 @@ import org.jsoup.select.Elements;
 
 public class Test {
     public static void main(String[] args) {
-       // String url ="https://esarj.com/api/stations";
-       // System.out.println(getDocumentFromUrl(url));
        String groupByColumns = Operations.clearData("URL_DATA_VOLTRUN_20230124", 2);
        Operations.deleteDoubleRecord("URL_DATA_VOLTRUN_20230124", groupByColumns);
        
-       
-        
        //esarj(url) ;
         //System.out.println(commonPostRequest(url, "{stations: \"esarj.public.web.stations\"}","82TATVR9-dKi65TB-YuGODGfAFXyZd-8gJ_Y", "JSxLpmnxU4Lf_RhOjKoXEM1w",true));
         
@@ -105,7 +97,7 @@ public class Test {
                 }
             }
         } catch (Exception e) {
-            System.out.println(e.getStackTrace());
+            Utils.showText(e.getStackTrace().toString());
             Utils.showError("findZiraatData hata :" + e.getStackTrace());
         }
 
@@ -214,7 +206,7 @@ public class Test {
                         for(int i=0;i<contents.size();i++){
                            try{
                                Element content = contents.get(i);
-                               System.out.println("*****************"+content);
+                               Utils.showText("*****************" + content);
                                String id = content.attr("data-location-id");
                                String sarjType = content.attr("data-charge-type");
                                String address = content.attr("data-search");
@@ -226,7 +218,7 @@ public class Test {
                                }catch(Exception e){
                               
                                }
-                               System.out.println("id: "+ id + " sarjType: "+ sarjType+" address: "+address + " name: "+name + " city: "+city);
+                               Utils.showText("id: "+ id + " sarjType: "+ sarjType+" address: "+address + " name: "+name + " city: "+city);
                            }catch(Exception e){
                                e.fillInStackTrace();
                            }
@@ -242,7 +234,7 @@ public class Test {
             //writeData( requestUrl, "Şube", tableName);
            
         } catch (Exception e) {
-            System.out.println(e.getStackTrace());
+            Utils.showText(e.getStackTrace().toString());
             Utils.showError("findZiraatData hata :" + e.getStackTrace());
         }
     }
@@ -268,7 +260,7 @@ public class Test {
                 }
             }
         } catch (Exception e) {
-            System.out.println(e.getStackTrace());
+            Utils.showText(e.getStackTrace().toString());
             Utils.showError("findZiraatData hata :" + e.getStackTrace());
         }
 
